@@ -43,7 +43,7 @@ public class SimpleWebServer extends Thread {
     private ServerSocket serverSocket;
     private boolean _running = true;
 
-    public static final String VERSION = " website by srikanth (version1)";
+    public static final String VERSION = " website by srikanth (version2)";
     public static final Map<String, String> MIME_TYPES = new HashMap<String, String>();
     
     static {
